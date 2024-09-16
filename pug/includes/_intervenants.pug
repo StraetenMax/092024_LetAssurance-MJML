@@ -1,0 +1,55 @@
+//- Photos des intervenants
+-
+    const intersList =[
+        {
+           'photo' : 'https://i.ibb.co/qC6WP0t/quentin.png',
+            'name' : 'Quentin RINGOT',
+            'titre' : 'Gestionnaire de patrimoine Le Conservateur',
+            'prof' : 'Professeur de techniques commerciales et de fiscalité'
+        },
+        {
+           'photo' :  'https://i.ibb.co/s5cWGG1/nicolas.png',
+            'name' :  'Nicolas BARBIER',
+            'titre' : 'Gestionnaire de patrimoine Banque CIC Exigence',
+            'prof' :   'Professeur de techniques bancaires et financement - BTS et BACHELOR'
+        },
+        {
+           'photo' : 'https://i.ibb.co/xCVxSdR/severine.png',
+            'name' : 'Séverine RUFIN',
+            'titre' : 'Performance technique des réseaux Groupe Covéa (MMA-MAAF-GMF)',
+            'prof' : 'Professeure  d\'assurance IARD - et approche globale'
+        },
+        {
+           'photo' : 'https://i.ibb.co/gVhw0N8/alexy.png',
+            'name' : 'Alexy RUBAN',
+            'titre' : 'Assistant directeur artistique Lemon & Pepper',
+            'prof' : 'Professeur de digital et réseaux sociaux'
+        },
+        {
+           'photo' : 'https://i.ibb.co/FhndDsC/yves.png',
+            'name' : 'Yves SION',
+            'titre' : 'Avocat au barreau de Lille cabinet RAXIS LOGOS',
+            'prof' : 'Intervenant conférence Droit social'
+        },
+        {
+           'photo' : 'https://i.ibb.co/9pnK2zQ/barbara.png',
+            'name' : 'Barbara CLOMBE',
+            'titre' : 'Responsable département cabinet DIOT HAUTS-DE-FRANCE',
+            'prof' : 'Professeure de Gestion de sinistre et assurance',
+        }
+    ]
+
+mj-section(padding="20px" background-color="#ffffff")
+    mj-column(width="100%")
+        mj-text(padding='0' align='left' font-size='14px' font-weight='900' color='#944694' line-height='18px' text-transform='uppercase') Formation en Apprentissage
+        mj-text(padding='5px 0 0 0' align='left' font-size='20px' font-weight='700' line-height='24px' color='#684092') Formation réussie rime avec exigence et qualité des équipes !
+        mj-text(padding='0' font-size='16px' line-height='20px' font-weight='400') Nous sommes heureux de vous présenter une partie de notre casting pour cette année 2&zwnj;024-2025.
+    each inter in intersList
+        mj-group(width="100%")
+            mj-column(width="30%" padding="8px")
+                mj-image(width="120px" padding="0px" src= inter.photo alt= inter.name)/
+            mj-column(width="70%" vertical-align="middle" padding="8px")
+                mj-text(align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092")= inter.name
+                mj-text(align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694")= inter.titre 
+                mj-text(align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic")= inter.prof
+    

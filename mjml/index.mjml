@@ -1,0 +1,195 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Lettre Assurance Étudiant Août 2024</mj-title>
+    <mj-raw>
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"></mj-text>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#fcfcfc">
+    <mj-section background-color="#270938" padding="0">
+      <mj-group width="480px">
+        <mj-column width="20%" padding-top="8px" padding-bottom="8px" padding-right="8px" vertical-align="middle">
+          <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
+        </mj-column>
+        <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px" vertical-align="middle">
+          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-bottom="0">
+      <mj-group width="92%"> 
+        <mj-column width="60%" padding="10px">
+          <mj-image align="left" padding="0" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance"></mj-image>
+        </mj-column>
+        <mj-column width="40%" padding="10px">
+          <mj-image align="right" padding="0" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png" alt="Logo de la Newsletter"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">       
+      <mj-column width="92%">
+        <mj-social align="right" inner-padding="0 10px 0 0px" padding="0 10px" icon-size="30px" mode="horizontal">
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://www.facebook.com/EcosupAssurance" alt="icon Facebook"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f823605bbe5926c9b9.gif" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="icon Youtube">    </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0">
+      <mj-column width="92%" padding="10px">
+        <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Août 2024        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/Gkm0KKB/news-Bandeau082024.jpg" alt="Groupe d'étudiants entrain de discuter avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="20px" font-weight="700" line-height="24px" color="#684092">Une rentrée 2024 riche en perspective !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers étudiants,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">C'est avec un immense plaisir que nous vous accueillons pour cette nouvelle année académique 2&zwnj;024-2025 au sein d'Ecosup Campus. Nous espérons que vous avez passé un été reposant et que vous êtes prêts à relever de nouveaux défis.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Cette année, nous avons conçu un programme pédagogique qui allie tradition et innovation. Vous découvrirez :
+          <ul align="left" style="list-style-type:disc; padding:0 0 0 20px; margin:10px 0;">
+            <li style="text-align: left; margin:0 0 10px;"><span style="font-weight:700;">De nouveaux projets passionnants :</span> des partenariats avec des entreprises, des conférences et ateliers afin d'allier théorie et pratique !</li>
+            <li style="text-align: left; margin:0 0 10px;"><span style="font-weight:700;">Des outils numériques performants :</span> nous avons mis en place de nouvelles plateformes en ligne pour faciliter vos apprentissages et vos échanges avec vos enseignants.</li>
+            <li style="text-align: left; margin:0;"><span style="font-weight:700;">Un accompagnement personnalisé :</span> comme toujours notre équipe pédagogique est à votre écoute pour répondre à vos questions et vous aider à réussir.</li>
+          </ul>
+        </mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Je suis personnellement heureux de vous retrouver pour cette année et je vous assure mon engagement total pour faire de votre cursus une réussite professionnelle et personnelle.</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très vite !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2D3748" padding="15px">
+      <mj-column width="85%">
+        <mj-social padding="0" font-size="16px" line-height="20px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier">Rentrée des BACHELOR Chargé de Clientèles en Assurance et Banque : <span style="color:#ffffff;">Mercredi 4&zwnj; s&zwnj;eptembre 2024 à 10h</span></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier">Rentrée des BTS Assurance : <span style="color:#ffffff;">Lundi 9&zwnj; s&zwnj;eptembre 2024 à 14h</span></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Formation réussie rime avec exigence et qualité des équipes !</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">Nous sommes heureux de vous présenter une partie de notre casting pour cette année 2&zwnj;024-2025.</mj-text>
+      </mj-column>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/qC6WP0t/quentin.png" alt="Quentin RINGOT"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Quentin RINGOT</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Gestionnaire de patrimoine Le Conservateur</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques commerciales et de fiscalité</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/s5cWGG1/nicolas.png" alt="Nicolas BARBIER"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Nicolas BARBIER</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Gestionnaire de patrimoine Banque CIC Exigence</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques bancaires et financement - BTS et BACHELOR</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/xCVxSdR/severine.png" alt="Séverine RUFIN"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Séverine RUFIN</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Performance technique des réseaux Groupe Covéa (MMA-MAAF-GMF)</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure  d'assurance IARD - et approche globale</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/gVhw0N8/alexy.png" alt="Alexy RUBAN"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Alexy RUBAN</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Assistant directeur artistique Lemon &amp; Pepper</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de digital et réseaux sociaux</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/FhndDsC/yves.png" alt="Yves SION"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Yves SION</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Avocat au barreau de Lille cabinet RAXIS LOGOS</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Intervenant conférence Droit social</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/9pnK2zQ/barbara.png" alt="Barbara CLOMBE"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Barbara CLOMBE</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694">Responsable département cabinet DIOT HAUTS-DE-FRANCE</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure de Gestion de sinistre et assurance</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/dt7hhhf/news-A082024.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Pratique</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Avec Ecosup, la Région Hauts de France et l'OPCO... bénéficiez des avantages réservés aux apprentis</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <p style="margin:10px 0;"><span style="font-weight:700;">- Une allocation de 200 €</span> pour vous équiper et d'autres aides disponibles pour les transports, le logement ou la restauration grâce à la <a style="color:#2D3748;" href="https://generation.hautsdefrance.fr/la-carte-generation-hdf-cest-a-partir-du-2-juillet/">carte Génération #HDF</a>.</p>
+          <p style="margin:10px 0;"><span style="font-weight:700;">- Une aide de 500 €</span> pour passer votre permis de conduire grâce à la <a style="color:#2D3748;" href="https://www.hautsdefrance.fr/aide-au-permis-evolue-2024/">région Hauts-de-France</a>. </p>
+          <p style="margin:10px 0;"><span style="font-weight:700;">- La mise à disposition gratuite d'un ordinateur portable</span> pour la durée de vos études grâce à l'OPCO.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
+      <mj-column width="30%" padding="8px">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/q1JFxSZ/news02-072024.jpg" alt="Étudiants entrain de préparer leur rentrée universitaire"/>
+      </mj-column>
+      <mj-column width="70%" padding="8px">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en apprentissage</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Quelques conseils pour une rentrée réussie</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
+          <ul style="list-style-type:disc; padding:0 0 0 20px; margin:10px 0;">
+            <li style="text-align:left;padding:10px 0 0 0"><span style="font-weight:700">Organisez-vous :</span> un espace de travail dédié et un matériel adapté vous aideront à être plus efficace.</li>
+            <li style="text-align:left;padding:10px 0 0 0"><span style="font-weight:700">N'hésitez pas à poser toutes les questions :</span> L'équipe d'Ecosup Assurance et vos enseignants sont là pour vous guider et vous accompagner tout au long de l'année.</li>
+            <li style="text-align:left;padding:10px 0 0 0"><span style="font-weight:700">Impliquez-vous dans la vie de l'établissement :</span> Rejoignez les associations étudiantes, participez aux évènements organisés... C'est l'occasion de créer de nouveaux liens et de développer votre réseau.</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#270938" padding="20px 32px">
+      <mj-column width="320px">
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">17 rue Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="700" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="tel:0320700606">Tél 03.20.70.06.06</a>                </mj-text>
+        <mj-text padding="0 0 25px 0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc"><a style="text-decoration:none;color:#fcfcfc" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ mirror }}">ici</a></mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#fcfcfc;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" font-size="12px" font-weight="300" line-height="16px" color="#fcfcfc">Pour vous désinscrire, cliquez <a style="color:#BA4995;text-transform:uppercase;text-decoration:none;font-weight:700" href="{{ unsubscribe}}">ici</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
