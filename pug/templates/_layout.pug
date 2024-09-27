@@ -1,7 +1,7 @@
 mjml
     //- Head
     mj-head
-        mj-title Lettre Assurance Étudiant Août 2024
+        mj-title Lettre Assurance Étudiant Septembre 2024
         mj-raw.
             <meta name='color-scheme' content='light'/>
             <meta name='supported-color-schemes' content='light'/>
@@ -18,30 +18,23 @@ mjml
         //- Partenaire ESA
         block esa
             include ../includes/_esa
-
         //- Header
         block header
-       
         //- Dossier
-            block dossier
+        block dossier
             include ../includes/_dossier.pug
-
         //- Bandeau Post
             block 02bandeau
             include ../includes/_rentree
-
         //- Intervenants
             block _intervenants
             include ../includes/_intervenants
-        
         //- Article_1
-            block article_1
+        block article_1
             include ../includes/_article1
-        
         //- Article_3
             block article_3
             include ../includes/_article3
-
         //- footer Post
         block footer
             include ../includes/_footer
